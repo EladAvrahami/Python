@@ -10,4 +10,5 @@ Automation an excel genarete grapice charts and mach more...  using openpyxl </b
 # Python Machine Learning Project 
 Popular Libraries: Numpy, Pandas ,MatPlotLib ,Scikit-Learn</br>
 Get Jupyter enviroment + the popular Libraries to your machine-> Download Jupyter using anaconda : https://www.anaconda.com/products/distribution </br>
-Using anaconda Documentation : https://www.anaconda.com/products/distribution/installation-success
+Using anaconda Documentation : https://www.anaconda.com/products/distribution/installation-success </br>
+how to start jupyter server after download anaconda on your machine -> https://www.youtube.com/watch?v=gxXkkN98ilc  
